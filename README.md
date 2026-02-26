@@ -60,8 +60,3 @@ Model performance was evaluated using:
 
 ---
 
-## 🚀 How to Run the Project
-
-### Step 1: Clone Repository
-```bash
-git clone https://github.com/your-username/Titanic-Survival-Prediction.git
